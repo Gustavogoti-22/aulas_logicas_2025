@@ -1,7 +1,7 @@
 let numeros = [];
 
 for (let i = 0; i < 5; i++) {
-    let numero = Math.floor(Math.random() * 100); // entre 0 e 99
+    let numero = Math.floor(Math.random() * 100) + 1
     numeros.push(numero);
 }
 
