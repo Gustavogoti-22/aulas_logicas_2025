@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 let palavra = prompt("Digite uma palavra:");
 let vogais = "aeiouAEIOU";
 let contador = 0;
