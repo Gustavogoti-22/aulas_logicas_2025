@@ -1,5 +1,4 @@
-let lN = ['janeiro', 'fevereiro', 'março', 'abril', 'maio',
-     'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro']
-let letra = ('j')
-     if(lN.includes(letra.toLowerCase())){
-        console.log(lN)}
+ let meses = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"];
+     for (let i = 0; i < meses.length; i++) {
+      if (meses[i].startsWith("J")) {
+      console.log(meses[i]);}}

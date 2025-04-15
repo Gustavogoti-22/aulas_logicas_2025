@@ -1,3 +1,5 @@
-let lN = ['', 'nogueira','matheus antonio',]
-for(let nome of lN){
-    console.log(nome)}
+let animais = ["gato", "cachorro", "pássaro", "peixe"];
+
+for (let i = 0; i < animais.length; i++) {
+    console.log(animais[i].toUpperCase());
+}
