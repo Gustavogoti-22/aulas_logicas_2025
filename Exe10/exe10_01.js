@@ -1,0 +1,30 @@
+let contadorDeChamadas = 0
+function contarChamadas() {
+    contadorDeChamadas++;
+    return contadorDeChamadas;
+}
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
+console.log(contarChamadas())
