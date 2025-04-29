@@ -1,0 +1,5 @@
+const prompt = require('prompt-sync')()
+let salarioPh = Number(prompt(`Digite quanto você ganha por hora: `))
+let horasPM = Number(prompt(`Digite quantas horas você trabalha por mês: `))
+let salarioPm = (salarioPh * horasPM)
+console.log(`Você ganha: R$${salarioPm}`)
