@@ -5,3 +5,4 @@ if(sexo == `M`){
 }else if(sexo == `F`){
     console.log(`Seu sexo é Feminino`)}
 else(console.log(`Sexo invalido`))
+

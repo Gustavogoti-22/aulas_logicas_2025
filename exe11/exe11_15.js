@@ -16,4 +16,4 @@ function mostrarTabelaDivida(valorDivida) {
         console.log(`${opcao.parcelas.toString().padEnd(8)} | ${opcao.juros.toString().padEnd(10)} | R$ ${valorJuros.toFixed(2).padEnd(11)} | R$ ${valorTotal.toFixed(2).padEnd(10)} | R$ ${valorParcela.toFixed(2)}`);
     });
 }
-mostrarTabelaDivida(1000);
+mostrarTabelaDivida(1000)

@@ -12,3 +12,4 @@ function verificarSituacao(n1, n2, n3, n4) {
     console.log(`Média: ${media.toFixed(2)} - Situação: ${situacao}`);
 }
 verificarSituacao(6, 7, 5, 8);
+
